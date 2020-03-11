@@ -1,2 +1,2 @@
-# Tugas Matakuliah Dasar Algoritma dan Pemrograman
+# Tugas Besar Matakuliah Dasar Algoritma dan Pemrograman
 Program Aplikasi Penerbangan
